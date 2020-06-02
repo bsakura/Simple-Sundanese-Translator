@@ -2,9 +2,9 @@
 This web application may help you translate words and sentences from Sundanese to Bahasa and other way around using several algorithms
 
 ## Requirement
--Flask
--React
--Python
+1. Flask
+2. React
+3. Python
 
 ## Running
 1. Clone or download this repository
@@ -13,14 +13,18 @@ This web application may help you translate words and sentences from Sundanese t
 ```
 flask run
 ```
-4. In the initial directory (Simple-Sundanese-Translator), run react
+4. In initial directory install npm
+```
+yarn
+```
+5. In the initial directory (Simple-Sundanese-Translator), run react
 ```
 yarn start
 ```
-5. The application shall start in your local host
+6. The application shall start in your local host
 
 ## Youtube Link
-
+The demo video can be seen on the link attached
 https://youtu.be/WF_leMO9los
 
 ## Author
