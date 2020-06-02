@@ -14,7 +14,8 @@ This web application may help you translate words and sentences from Sundanese t
 flask run
 ```
 4. In the initial directory (Simple-Sundanese-Translator), run react
-```yarn start
+```
+yarn start
 ```
 5. The application shall start in your local host
 
