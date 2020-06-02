@@ -21,29 +21,8 @@ yarn start
 
 ## Youtube Link
 
-## Screen Capture
+https://youtu.be/WF_leMO9los
 
-```
-Sunda - Indonesia
-Sunda : anjeun sumping ti mana?
-Indonesia : kamu tiba dari mana?
-```
-
-```
-Indonesia - Sunda
-Indonesia : nama saya Riyugan
-Sunda : nami abdi Riyugan
-```
-
-```
-Indonesia - Sunda
-Indonesia : nama adik kamu siapa?
-Sunda : nami rai anjeun teh saha?
-```
-
-```
-Indonesia - Sunda
-Indonesia : saya tidak bisa bahasa Sunda
-Sunda : abdi henteu tiasa bahasa Sunda
-```
-
+## Author
+Byan Sakura
+13518066
